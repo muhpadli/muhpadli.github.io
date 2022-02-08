@@ -1,7 +1,7 @@
 .banner{
-    background: url(to/blake-connally-IKUYGCFmfw4-unsplash.jpg);
+    background: url(to/blake-connally-IKUYGCFmfw4-unsplash.jpg) no-repeat center center;
     background-size: cover;
-    padding-top: 20%;
+    padding-top: 25%;
     padding-bottom: 20%;
     color: rgb(255, 255, 255);
 }
