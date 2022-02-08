@@ -1,8 +1,13 @@
 .banner{
-    background: url("photo/cover4.jpg") 
-    no-repeat center center;
+    background: url(to/blake-connally-IKUYGCFmfw4-unsplash.jpg);
     background-size: cover;
     padding-top: 20%;
     padding-bottom: 20%;
-    color: #fff;
+    color: rgb(255, 255, 255);
 }
+
+.footer{
+    padding-top: -500px;
+
+}
+
